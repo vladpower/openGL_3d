@@ -1,0 +1,7 @@
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/rebuild_cache.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/install/strip.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/install.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/install/local.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/Converter.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/list_install_components.dir
+/home/vlad/programs_new/OpenGL/model-converter/build/CMakeFiles/edit_cache.dir
