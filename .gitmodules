@@ -1,3 +1,9 @@
 [submodule "assimp"]
 	path = assimp
 	url = git://github.com/assimp/assimp
+[submodule "deferxx"]
+	path = deferxx
+	url = git://github.com/lichray/deferxx
+[submodule "glm"]
+	path = glm
+	url = git://github.com/Groovounet/glm-deprecated
